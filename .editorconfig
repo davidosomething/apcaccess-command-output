@@ -1,0 +1,6 @@
+# shfmt
+# https://github.com/mvdan/sh/blob/master/cmd/shfmt/shfmt.1.scd#examples
+[*.bash]
+indent_style = tab
+indent_size = 2
+switch_case_indent = true  # --case-indent
